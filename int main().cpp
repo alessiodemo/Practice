@@ -5,6 +5,7 @@ int main()
 {
     int number = 3;
     int number2 = 2;
+    //CIAO
 
     int result;
     result=number*number2;
